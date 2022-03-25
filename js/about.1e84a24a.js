@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuex_launchx"]=self["webpackChunkvuex_launchx"]||[]).push([[443],{7381:function(n,u,a){a.r(u),a.d(u,{default:function(){return o}});var e=a(3396);const t={class:"about"},c=(0,e._)("h1",null,"This is an about page",-1),r=[c];function s(n,u){return(0,e.wg)(),(0,e.iD)("div",t,r)}var i=a(89);const l={},h=(0,i.Z)(l,[["render",s]]);var o=h}}]);
+//# sourceMappingURL=about.1e84a24a.js.map
